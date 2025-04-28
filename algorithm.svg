@@ -1,0 +1,17 @@
+Start DeploymentAzure SetupCreate Azure Subscription (if not
+existing)Create Resource Group to organize resourcesAzure Setup
+CompletedVirtual Network Configuration (AVN)Create Azure Virtual
+NetworkDefine and configure SubnetsImplement Network Security Groups
+(NSGs) for traffic controlVirtual Network Config CompletedVirtual
+Machine Scale Set (VMSS) ConfigurationCreate Virtual Machine Scale
+SetConfigure Custom Image for VMSSDefine Scaling Rules (e.g., based on
+CPU utilization)Integrate Application Deployment with VMSSConfigure
+custom data and cloud initVMSS Configuration CompletedWeb Application
+DeploymentPackage E-commerce Application and dependenciesDevelop
+Deployment Script (or use Azure DevOps)Deploy application to VMSS
+instancesWeb Application DeployedApplication Gateway ConfigurationCreate
+Azure Application GatewayConfigure Backend Pool with VMSS
+instancesImplement SSL TerminationApplication Gateway
+ConfiguredVerification and TestingVerify successful deployment of all
+Azure resourcesTest website functionality and performanceDeployment Verified
+

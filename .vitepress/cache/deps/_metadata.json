@@ -1,0 +1,97 @@
+{
+  "hash": "fecadfc9",
+  "configHash": "6c589cda",
+  "lockfileHash": "36ffa275",
+  "browserHash": "fd65dd5b",
+  "optimized": {
+    "react": {
+      "src": "../../../node_modules/.pnpm/react@18.3.1/node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "e3752302",
+      "needsInterop": true
+    },
+    "react-dom": {
+      "src": "../../../node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/index.js",
+      "file": "react-dom.js",
+      "fileHash": "49875cc2",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../../node_modules/.pnpm/react@18.3.1/node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "44024295",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../../node_modules/.pnpm/react@18.3.1/node_modules/react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "36059d5d",
+      "needsInterop": true
+    },
+    "vue": {
+      "src": "../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "81508a00",
+      "needsInterop": false
+    },
+    "vitepress > @vue/devtools-api": {
+      "src": "../../../node_modules/.pnpm/@vue+devtools-api@7.7.2/node_modules/@vue/devtools-api/dist/index.js",
+      "file": "vitepress___@vue_devtools-api.js",
+      "fileHash": "5a4f657c",
+      "needsInterop": false
+    },
+    "vitepress > @vueuse/core": {
+      "src": "../../../node_modules/.pnpm/@vueuse+core@12.7.0_typescript@5.7.3/node_modules/@vueuse/core/index.mjs",
+      "file": "vitepress___@vueuse_core.js",
+      "fileHash": "4391fe09",
+      "needsInterop": false
+    },
+    "lucide-react": {
+      "src": "../../../node_modules/.pnpm/lucide-react@0.344.0_react@18.3.1/node_modules/lucide-react/dist/esm/lucide-react.js",
+      "file": "lucide-react.js",
+      "fileHash": "a81e324f",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../../node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "82cadbd7",
+      "needsInterop": true
+    },
+    "react-icons/si": {
+      "src": "../../../node_modules/.pnpm/react-icons@5.5.0_react@18.3.1/node_modules/react-icons/si/index.mjs",
+      "file": "react-icons_si.js",
+      "fileHash": "a6369c2f",
+      "needsInterop": false
+    },
+    "react-router-dom": {
+      "src": "../../../node_modules/.pnpm/react-router-dom@6.30.0_rea_6b58b4787c243edcd3a991ae74e383c1/node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "2a6be6a1",
+      "needsInterop": false
+    },
+    "@theme/index": {
+      "src": "../../../node_modules/.pnpm/vitepress@2.0.0-alpha.3_@al_52f590291e8cad31e19166d9c9c5a8b9/node_modules/vitepress/dist/client/theme-default/index.js",
+      "file": "@theme_index.js",
+      "fileHash": "07f209da",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-FWQA46IE": {
+      "file": "chunk-FWQA46IE.js"
+    },
+    "chunk-T3P2JEWU": {
+      "file": "chunk-T3P2JEWU.js"
+    },
+    "chunk-VJWGEPT5": {
+      "file": "chunk-VJWGEPT5.js"
+    },
+    "chunk-A3JVXOJE": {
+      "file": "chunk-A3JVXOJE.js"
+    },
+    "chunk-G3PMV62Z": {
+      "file": "chunk-G3PMV62Z.js"
+    }
+  }
+}
